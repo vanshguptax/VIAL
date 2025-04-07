@@ -4,7 +4,7 @@ A sleek and modern social media portfolio to showcase your personality, projects
 
 ## 🌐 Live Demo
 
-[Check it out here!](https://vanshguptax.github.io/VIAL) <!-- (update if needed) -->
+[Check it out here!]([https://vanshguptax.github.io/VIAL](https://vial-theta.vercel.app/)) <!-- (update if needed) -->
 
 ---
 
